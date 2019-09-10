@@ -1,0 +1,29 @@
+{
+  "globals": {
+    "angular": true,
+    "_": true,
+    "$": true,
+    "appGlobal": true,
+    "md5": true
+  },
+  "freeze": true,
+  "strict": false,
+  "latedef": "nofunc",
+  "node": true,
+  "noempty": false,
+  "noarg": true,
+  "nonbsp": true,
+  "esnext": true,
+  "eqeqeq": false,
+  "browser": true,
+  "curly": true,
+  "undef": true,
+  "nonew": true,
+  "forin": true,
+  "unused": false,
+  "jasmine": true,
+  "immed": false,
+  "indent": 4,
+  "debug": false,
+  "loopfunc":true
+}
